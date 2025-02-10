@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kardelenngunel
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Application Development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me @kardelen.gun.el@hotmail.com
 - ⚡ Fun fact: Software, Drawing
 
